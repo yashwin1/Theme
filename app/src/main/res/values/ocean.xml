@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="yashwin_bg_color">#009900</color>
+    <style name="YashwinTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@color/yashwin_bg_color</item>
+    </style>
+
+</resources>
